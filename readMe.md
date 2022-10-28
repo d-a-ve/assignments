@@ -17,11 +17,17 @@ Two tasks were given :
 A) Recreate a 3-column card design using CSS Flexbox Layout
 - This task should be on the index.html file.
 
+
+### My Design
+![Dave's Zuri Task week4 Flex](https://github.com/d-a-ve/assignments/blob/week4/assets/zuri%20task%20flex.PNG?raw=true)
  
 
 B) Recreate a design using CSS Grid Layout  
 - This task should be on the grid.html file.
 - You can use any background colour of your choice.
+
+### My Design
+![Dave's Zuri Task week4 Grid](https://github.com/d-a-ve/assignments/blob/week4/assets/zuri%20task%20grid.PNG?raw=true)
 
 Live link - [Week 4](https://Zuri-Task-Layout-flex-and-grid.daimaoudave.repl.co)
 ## Run Locally

@@ -32,6 +32,6 @@ Check the list of branches
 Go to any branch of your choice from it's name
 
 ```bash
-  git checkout -b <branch name>
+  git checkout <branch name>
 ```
 

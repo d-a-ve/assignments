@@ -15,6 +15,7 @@ page. You should use inline linking to the sections on
 the home page and make the other page, contact us, open up 
 a new page.
 
+![Dave's Zuri Task Week3 Portfolio](https://github.com/d-a-ve/assignments/blob/week3/assets/Zuri%20task%20portfolio%20img.PNG?raw=true)
 Live link - [My Portfolio](https://My-Portfolio.daimaoudave.repl.co).
 
 The code for this task can be found in Week3 - A.
@@ -33,6 +34,7 @@ The login page should include fields for:
 
 Email and password.
 
+![Dave's Zuri Task Week3 Registration Form](https://github.com/d-a-ve/assignments/blob/week3/assets/Zuri%20task%20registration%20form.PNG?raw=true)
 Live link - [Register Now](https://Zuri-Task-week-3-B.daimaoudave.repl.co).
 
 The code for this task found in Week3 - B.

@@ -15,7 +15,7 @@ page. You should use inline linking to the sections on
 the home page and make the other page, contact us, open up 
 a new page.
 
-![Dave's Zuri Task Week3 Portfolio](https://github.com/d-a-ve/assignments/blob/week3/assets/Zuri%20task%20portfolio%20img.PNG?raw=true)
+![Dave's Zuri Task Week3 Portfolio](https://github.com/d-a-ve/assignments/blob/week3/assets/zuri%20task%20portfolio%20img.PNG?raw=true)
 Live link - [My Portfolio](https://My-Portfolio.daimaoudave.repl.co).
 
 The code for this task can be found in Week3 - A.
